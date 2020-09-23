@@ -2,7 +2,8 @@
 
 ### Author: {{ cookiecutter.author }}
 
-## Description: {{ cookiecutter.description }}
+## Description: 
+{{ cookiecutter.description }}
 
 ## Project Organization
 ---
