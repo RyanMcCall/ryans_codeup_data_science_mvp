@@ -19,9 +19,14 @@ Modified from [datasciencemvp](https://github.com/cliffclive/datasciencemvp/)
 │   ├── prepared            <- The prepared datasets for exploration
 │   └── raw                 <- The original, immutable data
 │
+├── notebooks               <- A directory for all working notebooks. Formatting is 
+│                              to create a directory with contributors name and then
+│                              use a file naming format of version number for order and
+│                              short title (ex. 1.0_data_acquisistion.ipynb)
+│
 ├── main.py                 <- The main python script that calls all src scripts
 │
-├── mvp.ipynb               <- The main notebook for the project
+├── mvp.ipynb               <- The main notebook for the project.
 │
 ├── src                     <- The source code for use in this project
 │   ├── __init__.py         <- Makes src a Python module
